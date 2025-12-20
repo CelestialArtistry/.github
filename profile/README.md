@@ -11,6 +11,7 @@
 
 ## :star: Main projects
 - [Taiyitist](https://github.com/TaiyitistMC/Taiyitist) - Minecraft Fabric server software implementing Bukkit/Spigot APIs.
+- [NeoTaiyitist](https://github.com/TaiyitistMC/NeoTaiyitist) - Minecraft NeoForge server software implementing Bukkit/Spigot APIs.
 
 ## ☪️  Mascot
 - [THExuri](https://github.com/THExuri) - The Succubus of the organization, THExuri
