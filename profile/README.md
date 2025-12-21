@@ -1,6 +1,6 @@
 <p align="center">
   <img height="150px"
-    src="img/logo.jpg"
+    src="/img/logo.jpg"
   />     
   <h1 align="center">CelestialArtistry</h1>
 </p>
