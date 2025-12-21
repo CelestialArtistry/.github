@@ -12,6 +12,7 @@
 ## :star: Main projects
 - [Taiyitist](https://github.com/CelestialArtistry/Taiyitist) - Minecraft Fabric server software implementing Bukkit/Spigot APIs.
 - [Tenet](https://github.com/CelestialArtistry/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+.
+- [NeoTenet](https://github.com/CelestialArtistry/NeoTenet) - Minecraft NeoForge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+.
 
 ## ☪️  Mascot
 - [THExuri](https://github.com/THExuri) - The Succubus of the organization, THExuri
