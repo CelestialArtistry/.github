@@ -1,1 +1,1 @@
-The profile of CelestialArtistry orgnization.
+The profile of Teneted orgnization.
