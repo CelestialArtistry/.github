@@ -6,8 +6,10 @@
 </p>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">Teneted, an organization initiated by - [<span target="_blank">TT</span>](https://github.com/Rz-c), upholds the core concept of serving players. We aim to build a harmonious player community by developing high-quality mods, plugins, and server software. Through continuous innovation, we meet diverse needs and create a vibrant community together.</p>
+<p align="center">Teneted, an organization initiated by TT, upholds the core concept of serving players. We aim to build a harmonious player community by developing high-quality mods, plugins, and server software. Through continuous innovation, we meet diverse needs and create a vibrant community together.</p>
 
+## :star: About TT
+- [TT](https://github.com/Rz-c) - The Founder of the Teneted organization, TT
 
 ## :star: Main projects
 - [Tenet](https://github.com/Teneted/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+.
