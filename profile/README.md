@@ -2,17 +2,17 @@
   <img height="150px"
     src="/img/logo.jpg"
   />     
-  <h1 align="center">CelestialArtistry</h1>
+  <h1 align="center">Teneted</h1>
 </p>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">CelestialArtistry is a Minecraft software organization that focuses on developing Minecraft, including Minecraft Server, Minecraft Mods, Minecraft Plugins, and other tools.</p>
+<p align="center">Teneted, an organization initiated by TT, upholds the core concept of serving players. We aim to build a harmonious player community by developing high-quality mods, plugins, and server software. Through continuous innovation, we meet diverse needs and create a vibrant community together.</p>
 
 
 ## :star: Main projects
-- [Taiyitist](https://github.com/CelestialArtistry/Taiyitist) - Minecraft Fabric server software implementing Bukkit/Spigot APIs.
 - [Tenet](https://github.com/CelestialArtistry/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+.
 - [NeoTenet](https://github.com/CelestialArtistry/NeoTenet) - Minecraft NeoForge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+.
+- [Taiyitist](https://github.com/CelestialArtistry/Taiyitist) - Minecraft Fabric server software implementing Bukkit/Spigot APIs.
 
 ## ☪️  Mascot
 - [THExuri](https://github.com/THExuri) - The Succubus of the organization, THExuri
